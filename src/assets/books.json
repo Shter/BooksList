@@ -1,0 +1,12 @@
+[
+  {"id": 1, "title": "To Kill a Mockingbird", "author": "Harper Lee", "year": 1960, "description": "A story of racial injustice and the loss of innocence."},
+  {"id": 2, "title": "1984", "author": "George Orwell", "year": 1949, "description": "A dystopian novel about totalitarianism."},
+  {"id": 3, "title": "Pride and Prejudice", "author": "Jane Austen", "year": 1813, "description": "A romantic novel about societal expectations."},
+  {"id": 4, "title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "year": 1925, "description": "A tale of wealth, love, and the American Dream."},
+  {"id": 5, "title": "Moby-Dick", "author": "Herman Melville", "year": 1851, "description": "An epic tale of obsession and revenge."},
+  {"id": 6, "title": "War and Peace", "author": "Leo Tolstoy", "year": 1865, "description": "A historical novel about the Napoleonic Wars."},
+  {"id": 7, "title": "The Catcher in the Rye", "author": "J.D. Salinger", "year": 1951, "description": "A story of teenage rebellion and alienation."},
+  {"id": 8, "title": "Brave New World", "author": "Aldous Huxley", "year": 1932, "description": "A futuristic novel about a controlled society."},
+  {"id": 9, "title": "Jane Eyre", "author": "Charlotte Brontë", "year": 1847, "description": "A gothic romance about an orphaned governess."},
+  {"id": 10, "title": "The Hobbit", "author": "J.R.R. Tolkien", "year": 1937, "description": "A fantasy adventure about a hobbit’s journey."}
+]
